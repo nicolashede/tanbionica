@@ -60,9 +60,9 @@ function checkAnswer(selectedOption) {
   const selectedSongIndex = parseInt(selectedOption.getAttribute("data-song-index"));
   
   if (selectedSongIndex === currentSongIndex) {
-    alert("Correct! 🎉");
+    alert("Correcto! 🎉");
   } else {
-    alert("Incorrect. Try again! 🙁");
+    alert("Incorrecto! 🙁");
   }
   
   playRandomSong();
