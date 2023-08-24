@@ -8,7 +8,7 @@ const songs = [ "Arruinarse.mp3", "Beautiful.mp3",
  ,"La Comunidad.mp3","La Depresión.mp3","La Ensalada.mp3"
  ,"La Suerte Esta Echada.mp3","Loca.mp3","Lunita de Tucumán.mp3"
  ,"Mis madrugaditas.mp3","Nací en Primavera.mp3","Obsesionario en la mayor.mp3"
- ,"Pastillitas del olvido.mp3","Perdida.mp3","Petalos.mp3"
+ ,"Pastillitas del Olvido.mp3","Perdida.mp3","Petalos.mp3"
  ,"Queso Ruso.mp3","Razón Perdida.mp3","Tapa de Moda.mp3"
  ,"Teléfonos.mp3","Veneno.mp3","Vidas Perfectas.mp3"
  ,"Vinidy Swing.mp3","Wonderful Noches.mp3","Yo Te Espero.mp3","La Melodía de Dios.mp3"
